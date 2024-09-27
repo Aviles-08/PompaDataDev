@@ -1,0 +1,4 @@
+*.ipynb_checkpoints/
+*.pyc
+__pycache__/
+data/total_sevicios_clientes_fieles_pompa.xlsx
